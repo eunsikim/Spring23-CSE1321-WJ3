@@ -9,7 +9,7 @@
 - Most IDEs have lots of dedicated features to help you to focus mostly on writing code.
 - IntelliJ and/or Replit
     
-    >[!Note 💡]
+    >[!Note]
     More info on how to install IntelliJ in the Lab 1 instruction manual.
 
     
@@ -29,15 +29,15 @@ public class main{
 ```
 
 
->[!Note💡]
+>[!Note]
 The “name” of the should always match the name of the file you are writing your code. For example, if you are writing code in a file called “calculator.java”, then you should call the class “calculator”.
 
->[!Note💡]
+>[!Note]
 The name of the `main` method is always main. This is because your computer will always look for a method called `main` to start.
 
 - Most of the lines of code you will write throughout the semester will be done “inside” the `main` class and “inside” the `main` method
     
-    >[!Note💡]
+    >[!Note]
     By “inside”, we refer that the lines of code will go inside the curly braces ‘{ }’
     
     
@@ -71,7 +71,7 @@ The name of the `main` method is always main. This is because your computer will
     In this program, we print the prompt `"How old are you?: "`, then we wait for the user to input some value, then read the inputted value, and finally store the value into a variable called `age`. Finally, we do another print where we output the age of the user.
     
 
->[!Note⚠️]
+>[!Note]
  **From this point forward, assume that every code snippet goes inside the `main` method.**
 
 # Introductory concepts
@@ -187,7 +187,7 @@ System.out.println("The sum is " + (5 + someIntegerVariable));
 
 ***ExampleC.java***
 
->[!Note💡]
+>[!Note]
 Assume that we already have a String variable called `someStringVariable` and that it has the value of `"world"`.
 Same thing for `someIntegerVariable`, which has some integer value.
 
