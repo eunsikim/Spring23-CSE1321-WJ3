@@ -1,0 +1,1 @@
+arrayComputers[0]
